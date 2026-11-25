@@ -25,13 +25,13 @@ Play Ascend makes tools for VALORANT players and the communities they play in. L
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://www.play-ascend.com/ascend-ai-bot"><img src="./assets/ascend-ai.png" alt="Ascend AI"></a>
+      <a href="https://www.play-ascend.com/ascend-ai-bot"><img src="./assets/ascend-ai-product.png" alt="Ascend AI"></a>
       <h3>Ascend AI</h3>
       A Discord bot that answers a server's repeat questions from its own docs and hands the rest to its mods. Moderation, tickets and more as opt-in modules.
       <br><a href="https://www.play-ascend.com/ascend-ai-bot">Add Ascend AI</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://esports.play-ascend.com"><img src="./assets/esports.png" alt="Ascend Esports"></a>
+      <a href="https://esports.play-ascend.com"><img src="./assets/esports-product.png" alt="Ascend Esports"></a>
       <h3>Esports</h3>
       Results, team rankings, upcoming events and player stats from the pro scene.
       <br><a href="https://esports.play-ascend.com">See esports results</a>
