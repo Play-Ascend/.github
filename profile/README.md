@@ -31,16 +31,19 @@ Play Ascend makes tools for VALORANT players and the communities they play in. L
       <br><a href="https://www.play-ascend.com/ascend-ai-bot">Add Ascend AI</a>
     </td>
     <td width="50%" valign="top">
-      <h3>Also from Play Ascend</h3>
-      <ul>
-        <li><a href="https://www.play-ascend.com/crosshairs">Crosshair gallery</a>: pro and community codes, add your own</li>
-        <li><a href="https://esports.play-ascend.com">Esports</a>: results, teams and player stats</li>
-        <li><a href="https://www.play-ascend.com/blog">Blog</a>: product notes and guides</li>
-        <li><a href="https://community.play-ascend.com">Ascend community</a>: our Discord server</li>
-      </ul>
+      <a href="https://esports.play-ascend.com"><img src="./assets/esports.png" alt="Ascend Esports"></a>
+      <h3>Esports</h3>
+      Results, team rankings, upcoming events and player stats from the pro scene.
+      <br><a href="https://esports.play-ascend.com">See esports results</a>
     </td>
   </tr>
 </table>
+
+### Also from Play Ascend
+
+- [Crosshair gallery](https://www.play-ascend.com/crosshairs): pro and community codes, add your own
+- [Blog](https://www.play-ascend.com/blog): product notes and guides
+- [Ascend community](https://community.play-ascend.com): our Discord server
 
 ### Connect
 
